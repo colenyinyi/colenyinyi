@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Cole Nyinyi 👋
 
-<!--
-**flugelshlagen/flugelshlagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! I'm a software developer who loves turning ideas into intuitive, reliable products.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Focused On
+- Building delightful web experiences with modern JavaScript frameworks
+- Exploring creative ways to mix design and engineering
+- Crafting small tools that remove friction from everyday workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Favorite Tools
+- **Languages:** TypeScript, JavaScript, Python
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, MongoDB
+- **Other:** GitHub Actions, Docker, Figma
+
+## 💡 Fun Facts
+- I started coding by designing small web pages for friends and never stopped.
+- I love learning about UI/UX and how people interact with software.
+- Outside of coding you'll find me enjoying great coffee or sketching new ideas.
+
+## 🤝 Let's Connect
+If you’d like to collaborate, chat about tech, or just say hi, feel free to reach out!
+
+Thanks for visiting my profile — more projects coming soon!
